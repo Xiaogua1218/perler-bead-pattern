@@ -1,0 +1,15 @@
+{
+  "creator": {
+    "avatar": "https://img.qwps.cn/avatar/6dcd650cdc8318cd?imageMogr2/thumbnail/180x180!&k=1779695553684244370",
+    "company_id": "41000207",
+    "id": "1842177292",
+    "name": "郭倩倩"
+  },
+  "display_name": "拼豆图纸生成器",
+  "from": "upload_update",
+  "hasInstall": true,
+  "name": "perler-bead-pattern",
+  "ns": "ent",
+  "skill_id": 17679,
+  "version": "1.0.1"
+}
